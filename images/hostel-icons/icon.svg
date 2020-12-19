@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="icon" transform="translate(-996.217 -2774.217)">
+    <g id="Эллипс_36" data-name="Эллипс 36" transform="translate(996.217 2774.217)" fill="none" stroke="#6d7889" stroke-width="2">
+      <circle cx="18" cy="18" r="18" stroke="none"/>
+      <circle cx="18" cy="18" r="17" fill="none"/>
+    </g>
+    <path id="Контур_802" data-name="Контур 802" d="M0,0H23.326" transform="translate(1005.401 2784.254) rotate(45)" fill="none" stroke="#6d7889" stroke-linecap="round" stroke-width="3"/>
+    <path id="Контур_803" data-name="Контур 803" d="M0,0H23.326" transform="translate(1005.401 2800.748) rotate(-45)" fill="none" stroke="#6d7889" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>
