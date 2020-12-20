@@ -41,9 +41,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-    $('[data-fancybox="gallery"]').fancybox({
+    $('.fancybox').fancybox({
 
     });
+
+
 
     $(".toggle-icon").click(function () {
 
