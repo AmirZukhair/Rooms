@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
         slidesToShow: 1,
         slidesToScroll: 1,
         variableWidth: true,
-        nextArrow: "<button type='button' class='slick-next pull-right'><img src='../images/hostel-icons/arrow.svg'  aria-hidden='true'></img></button>",
+        nextArrow: "<button type='button' class='slick-next pull-right'><img src='images/hostel-icons/arrow.svg'  aria-hidden='true'></img></button>",
         responsive: [
             {
                 breakpoint: 1565,
