@@ -1606,6 +1606,10 @@ body.hidden {
   .footer__inner-content .footer-menu .footer__menu-item {
     padding-bottom: 15px;
   }
+  .parallax-2 {
+    top: -45%;
+    left: 13.5%;
+  }
 }
 
 @media screen and (max-width: 365px) {
@@ -1651,7 +1655,4 @@ body.hidden {
 }
 
 /* ==== MEDIA QUERIES END==== */
-.hide {
-  display: none;
-}
 /*# sourceMappingURL=style.css.map */
